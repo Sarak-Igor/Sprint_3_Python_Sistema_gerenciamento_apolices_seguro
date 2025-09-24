@@ -1,0 +1,9 @@
+2025-09-23 22:49:40 - INFO - User: admin - Login SUCESSO para usuário: admin
+2025-09-23 22:49:40 - INFO - User: admin - Logout do usuário: admin
+2025-09-23 22:49:40 - INFO - User: Sistema - Operação: REPORT | Entidade: relatorio | ID: sinistros_por_status | Detalhes: Parâmetros: 
+2025-09-23 22:52:56 - INFO - User: Igor - Login FALHA para usuário: Igor
+2025-09-23 22:53:28 - INFO - User: Igor - Login FALHA para usuário: Igor
+2025-09-23 23:16:57 - INFO - User: admin - Login SUCESSO para usuário: admin
+2025-09-23 23:16:57 - INFO - User: admin - Logout do usuário: admin
+2025-09-23 23:16:57 - INFO - User: Sistema - Operação: REPORT | Entidade: relatorio | ID: sinistros_por_status | Detalhes: Parâmetros: 
+2025-09-23 23:23:33 - INFO - User: Igor - Login SUCESSO para usuário: Igor

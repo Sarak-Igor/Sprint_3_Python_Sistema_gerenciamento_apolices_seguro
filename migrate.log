@@ -1,0 +1,60 @@
+2025-09-23 23:00:58,051 - INFO - Banco de dados inicializado com sucesso
+2025-09-23 23:00:58,051 - INFO - === INICIANDO MIGRAÇÃO DE DADOS ===
+2025-09-23 23:00:58,051 - INFO - Timestamp: 2025-09-23 23:00:58.051348
+2025-09-23 23:00:58,051 - INFO - Iniciando migração de usuários...
+2025-09-23 23:00:58,051 - WARNING - Usuário admin já existe
+2025-09-23 23:00:58,051 - INFO - Usuário user1 criado com sucesso
+2025-09-23 23:00:58,051 - INFO - Usuário user1 migrado
+2025-09-23 23:00:58,071 - INFO - Usuário user2 criado com sucesso
+2025-09-23 23:00:58,071 - INFO - Usuário user2 migrado
+2025-09-23 23:00:58,075 - INFO - Usuário Igor criado com sucesso
+2025-09-23 23:00:58,075 - INFO - Usuário Igor migrado
+2025-09-23 23:00:58,081 - INFO - Usuário 56625845599 criado com sucesso
+2025-09-23 23:00:58,081 - INFO - Usuário 56625845599 migrado
+2025-09-23 23:00:58,086 - INFO - Usuário 44589658877 criado com sucesso
+2025-09-23 23:00:58,086 - INFO - Usuário 44589658877 migrado
+2025-09-23 23:00:58,091 - INFO - Usuário 12344785699 criado com sucesso
+2025-09-23 23:00:58,092 - INFO - Usuário 12344785699 migrado
+2025-09-23 23:00:58,096 - INFO - Usuário 35698744622 criado com sucesso
+2025-09-23 23:00:58,097 - INFO - Usuário 35698744622 migrado
+2025-09-23 23:00:58,100 - INFO - Usuário 12354789654 criado com sucesso
+2025-09-23 23:00:58,100 - INFO - Usuário 12354789654 migrado
+2025-09-23 23:00:58,107 - INFO - Usuário 25478965488 criado com sucesso
+2025-09-23 23:00:58,107 - INFO - Usuário 25478965488 migrado
+2025-09-23 23:00:58,112 - INFO - Usuário Teste criado com sucesso
+2025-09-23 23:00:58,112 - INFO - Usuário Teste migrado
+2025-09-23 23:00:58,112 - INFO - Iniciando migração de clientes...
+2025-09-23 23:00:58,124 - INFO - Cliente Maria Luisa Carvalho criado com ID 1
+2025-09-23 23:00:58,124 - INFO - Cliente Maria Luisa Carvalho migrado com ID 1
+2025-09-23 23:00:58,135 - INFO - Cliente João Kleber Ribeiro criado com ID 2
+2025-09-23 23:00:58,135 - INFO - Cliente João Kleber Ribeiro migrado com ID 2
+2025-09-23 23:00:58,146 - INFO - Cliente Carolina Mendonça criado com ID 3
+2025-09-23 23:00:58,146 - INFO - Cliente Carolina Mendonça migrado com ID 3
+2025-09-23 23:00:58,156 - INFO - Cliente Mariana Oliveira criado com ID 4
+2025-09-23 23:00:58,156 - INFO - Cliente Mariana Oliveira migrado com ID 4
+2025-09-23 23:00:58,166 - INFO - Cliente Carla Dias criado com ID 5
+2025-09-23 23:00:58,167 - INFO - Cliente Carla Dias migrado com ID 5
+2025-09-23 23:00:58,176 - INFO - Cliente Meredith Fagundes criado com ID 6
+2025-09-23 23:00:58,176 - INFO - Cliente Meredith Fagundes migrado com ID 6
+2025-09-23 23:00:58,176 - INFO - Iniciando migração de seguros...
+2025-09-23 23:00:58,176 - INFO - Iniciando migração de apólices...
+2025-09-23 23:00:58,179 - WARNING - Cliente com CPF None não encontrado para apólice None
+2025-09-23 23:00:58,180 - WARNING - Cliente com CPF None não encontrado para apólice None
+2025-09-23 23:00:58,181 - WARNING - Cliente com CPF None não encontrado para apólice None
+2025-09-23 23:00:58,181 - WARNING - Cliente com CPF None não encontrado para apólice None
+2025-09-23 23:00:58,182 - WARNING - Cliente com CPF None não encontrado para apólice None
+2025-09-23 23:00:58,183 - WARNING - Cliente com CPF None não encontrado para apólice None
+2025-09-23 23:00:58,183 - WARNING - Cliente com CPF None não encontrado para apólice None
+2025-09-23 23:00:58,184 - INFO - Iniciando migração de sinistros...
+2025-09-23 23:00:58,193 - INFO - Sinistro  criado com sucesso
+2025-09-23 23:00:58,193 - WARNING - Falha ao migrar sinistro 
+2025-09-23 23:00:58,196 - ERROR - Erro ao criar sinistro: UNIQUE constraint failed: sinistros.id
+2025-09-23 23:00:58,196 - WARNING - Falha ao migrar sinistro 
+2025-09-23 23:00:58,196 - INFO - === MIGRAÇÃO CONCLUÍDA ===
+2025-09-23 23:00:58,196 - INFO - Estatísticas da migração:
+2025-09-23 23:00:58,196 - INFO -   Clientes: 6 registros
+2025-09-23 23:00:58,196 - INFO -   Seguros: 0 registros
+2025-09-23 23:00:58,196 - INFO -   Apolices: 0 registros
+2025-09-23 23:00:58,196 - INFO -   Sinistros: 0 registros
+2025-09-23 23:00:58,197 - INFO -   Usuarios: 10 registros
+2025-09-23 23:00:58,197 - INFO - Total de registros migrados: 16

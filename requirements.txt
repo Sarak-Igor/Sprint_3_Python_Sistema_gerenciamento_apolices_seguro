@@ -1,0 +1,21 @@
+# Dependências do Sistema de Seguros
+# Python 3.8+ é necessário
+
+# Banco de dados SQLite (incluído no Python padrão)
+# sqlite3 - já incluído
+
+# Interface gráfica
+ttkthemes>=3.2.2
+pandas>=1.5.0
+
+# Para formatação de tabelas (opcional)
+tabulate>=0.9.0
+
+# Para interface rica (opcional)
+rich>=13.0.0
+
+# Para validação de dados (opcional)
+validators>=0.20.0
+
+# Para manipulação de datas (opcional)
+python-dateutil>=2.8.0
