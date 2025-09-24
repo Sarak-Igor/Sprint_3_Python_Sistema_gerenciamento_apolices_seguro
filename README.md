@@ -1,11 +1,13 @@
-# Sistema de Gerenciamento de Seguros - Sprint 3
+**Sprint:** 3 - Sistema de Registros e Gerenciamento de Seguros com SQLite
 
 ## 📋 Informações do Projeto
 
 **Integrantes:**
-- Igor [RM: 123456] - Desenvolvedor Principal
+1. **Lucca Phelipe Masini** - RM 564121 
+2. **Luis Fernando de Oliveira Salgado** - RM 561401 
+3. **Igor Paixão Sarak** - RM 563726 
+4. **Bernardo Braga Perobeli** - RM 562468
 
-**Sprint:** 3 - Sistema de Registros e Gerenciamento de Seguros com SQLite
 
 ## 🎯 Objetivos da Sprint
 
